@@ -1,0 +1,82 @@
+					Everyone has to learn 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Probelm Statement :  What is the prob for ur proj 
+Existing system   :   What are the solutions that are previously provided in Reference papers 
+Proposed System :  What is the solution that U have provided to the Problem statement 
+----------------------------------------------------------------------
+
+Tensorflow 
+Machine Learning 
+Neaural Networks
+Python
+Image Processing 
+OpenCv
+ImageAI
+Keras
+CudaNn
+Python GTTS(Google Text To Speech)
+
+
+UI development is done using Python TKINTER module
+Tkinter widgets
+Button 
+Menu
+Frame
+Label
+
+------------------------------------------------------------
+
+Algo..
+-------------------
+Retina net
+Yolo
+Yolo-Tiny
+Rcnn
+
+-----------------------------------------------------------------------
+
+FAQ
+---------------------------------
+
+1. What are Functional Requirements  :
+
+a functional requirement defines a function of a software system or its component. A function is described as a set of inputs, the behaviour, and outputs. Functional
+requirements may be calculations, technical details, data manipulation and processing and other specific functionality .
+
+    What data should be given as input?
+ How the data should be arranged or coded?
+ The user interface to guide the operating person in providing input
+
+
+
+2. What are Non-Functional Requirements  :
+
+ a non-functional requirement is a requirement that specifies criteria that can be used to judge the operation of a system, rather than specific behaviours.
+Other terms for nonfunctional requirements are "constraints", "quality attributes", "quality goals" and "quality of
+service requirements," and "non-behavioural requirements”. 
+
+1. Execution qualities, such as security and usability, which are observable at run time.
+2. Evolution qualities, such as testability, maintainability, extensibility and scalability,
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Roles in the Project:
+
+User Interface (UI)  			-- Ashish
+Testing & Analysis 			-- Ramesh n Praveen
+Implementation  & Comparison                     -- Varma
+Dataset Finding & Literature review             -- Ramesh n Praveeen
+
+
+[ 
+> Questions on elements on UI like which component used and what 
+
+> Testing & Analysis DIfferent testings and On what kind of Images the proj fails  And Which Algorithm choosed ..y only that algorithm ? 
+
+> Implementation  mostly ques on Code 
+
+> Dataset Finding & Literarture review :  How much is the dataset size what are the differnt class labes ? From where does the dataset collected ? 
+   Literarture Review  : What did u learn from previous Reference papers ? Which algo is used in ur base reference paper ? whats the accuracy in base ref paper ?
+
+
